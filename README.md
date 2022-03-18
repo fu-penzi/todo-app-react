@@ -1,2 +1,3 @@
 # todo-app-react
-Created with CodeSandbox
+Created with CodeSandbox <br/>
+Simple todo app created with React
